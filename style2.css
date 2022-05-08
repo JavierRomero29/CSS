@@ -1,0 +1,39 @@
+.contenedor {
+  background: bisque;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.item1 {
+  border: 2px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: red;
+  color: white;
+  width: 150px;
+  height: 150px;
+}
+
+.item2 {
+  border: 2px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: blue;
+  color: white;
+  width: 150px;
+  height: 150px;
+}
+
+.item3 {
+  border: 2px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: green;
+  color: white;
+  width: 150px;
+  height: 150px;
+}
